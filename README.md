@@ -1,1 +1,2 @@
-# capstone
+# Final Minnesota Twins Capstone Project
+For capstone, I had the pleasure of working on a project corresponding with the MinneMUDAC challenge and the Minnesota Twins. The goal of project was to write a regression to predict their home game attendance and offer suggestions to increase their home game attendance. Our final suggestions dealt with adding more promotions in slower months like April and Spetmenber and increasing overall family promotions in general.
